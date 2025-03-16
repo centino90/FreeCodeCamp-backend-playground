@@ -1,24 +1,18 @@
 {
-  "name": "freecodecamp-backend-playground",
-  "author": "centino90",
-  "version": "1.0.0",
-  "description": "# Managing Packages With npm",
+  "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/centino90/FreeCodeCamp-backend-playground.git"
-  },
-  "keywords": [],
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/centino90/FreeCodeCamp-backend-playground/issues"
-  },
-  "homepage": "https://github.com/centino90/FreeCodeCamp-backend-playground#readme",
-  "dependencies": {
-    "express": "^4.21.2"
   }
 }
