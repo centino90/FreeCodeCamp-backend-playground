@@ -1,5 +1,6 @@
 {
   "name": "freecodecamp-backend-playground",
+  "author": "Anthony Ansit",
   "version": "1.0.0",
   "description": "# Managing Packages With npm",
   "main": "server.js",
@@ -12,7 +13,6 @@
     "url": "git+https://github.com/centino90/FreeCodeCamp-backend-playground.git"
   },
   "keywords": [],
-  "author": "Anthony Ansit",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/centino90/FreeCodeCamp-backend-playground/issues"
